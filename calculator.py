@@ -19,7 +19,7 @@ def divide(a, b):
 
 
 if __name__ == "__main__":
-    print("=== SUPER CALCULATOR ===")
+    print("=== CALCULATOR V2 ===")
     print(add(2, 3))
     print(subtract(5, 2))
     print(multiply(4, 3))
